@@ -1,3 +1,6 @@
-# Branches
+# Feature Kapal
 
-## - [feature-cart](https://github.com/sandywonka/sirclo/tree/sandywonka-feature-cart)
+## Usage
+```bash
+pip install -r requirements.txt
+```
