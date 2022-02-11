@@ -5,5 +5,3 @@
 
 # Gitlab repo for CRUD
 ## - [feature-CRUD](https://gitlab.com/sandywonka/sirclo-crud)
-
-## All codes is created to fulfill SIRCLO Technical Test Condition
